@@ -1,0 +1,30 @@
+[
+  {
+    "name": "octocat/hello-world",
+    "description": "A sample repository to demonstrate a simple project structure.",
+    "language": "HTML",
+    "stargazers_count": 42,
+    "pushed_at": "2024-09-15T14:30:00Z"
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code, a lightweight but powerful source code editor.",
+    "language": "TypeScript",
+    "stargazers_count": 255000,
+    "pushed_at": "2024-10-05T08:15:00Z"
+  },
+  {
+    "name": "flutter/flutter",
+    "description": "Flutter makes it easy to build beautiful, natively compiled apps.",
+    "language": "Dart",
+    "stargazers_count": 165000,
+    "pushed_at": "2024-11-12T11:45:00Z"
+  },
+  {
+    "name": "github/docs",
+    "description": "The open-source documentation for GitHub products and features.",
+    "language": "Markdown",
+    "stargazers_count": 9200,
+    "pushed_at": "2024-12-02T09:10:00Z"
+  }
+]
